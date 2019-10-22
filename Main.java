@@ -1,6 +1,5 @@
 /*******************************
 ** Name    - Rohan Sam Thomas **
-** UTDID   - RST170000        **
 ** Class   - CS2336           **
 ** Date    - 09/05/2019       **
 ** JDK     - 11               **
@@ -298,7 +297,7 @@ public class Main {
             }
             // printing largest BB
             outputStream.println(" " + largestVal);
-        }
+        }mpting: the u
         // resetting
         largestVal = -99999;
         // smallest K
