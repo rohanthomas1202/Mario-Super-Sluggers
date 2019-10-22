@@ -1,0 +1,31 @@
+Mario
+BA: 0.455
+OB%: 0.563
+H: 5
+BB: 3
+K: 2
+HBP: 1
+
+Luigi
+BA: 0.364
+OB%: 0.533
+H: 4
+BB: 2
+K: 3
+HBP: 2
+
+Toad
+BA: 0.600
+OB%: 0.833
+H: 3
+BB: 7
+K: 0
+HBP: 0
+
+LEAGUE LEADERS
+BA: Toad 0.600
+OB%: Toad 0.833
+H: Mario 5
+BB: Toad 7
+K: Toad 0
+HBP: Luigi 2
